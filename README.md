@@ -2,7 +2,7 @@
 computer enthusiast and web developer.
 
 ## Experience 
-- Responsive web desin with CSS
+- Responsive web design with CSS
 - interactive websites with Javascript
 - Modular web apps with React
 - dynamic web applications with PHP.
